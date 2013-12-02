@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lonely Chat</string>
+    <string name="action_settings">Settings</string>
+    <string name="Button">送信</string>
+    <string name="Talk">talk</string>
+    <string name="tv_result">tv_result</string>
+    
+</resources>
